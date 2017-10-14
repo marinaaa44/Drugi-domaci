@@ -1,0 +1,29 @@
+body{
+	background-image:url("ggg.jpg");
+	width:1000px;
+}
+#h{
+	background-color: rgba(252, 217, 109, .5);
+	width:500px;
+	margin-left: 770px;
+	padding:10px;
+	border: 10px solid #ffd700;
+	border-radius: 45px;
+}
+h1,h2{
+	text-align: center;
+	font-style: italic;
+
+}
+p{
+	text-align:left;
+	text-indent:25px;
+
+ }
+img{
+ 	float:left;
+ }
+h1:hover{
+	font-size:50px;
+	color:gold;
+}
